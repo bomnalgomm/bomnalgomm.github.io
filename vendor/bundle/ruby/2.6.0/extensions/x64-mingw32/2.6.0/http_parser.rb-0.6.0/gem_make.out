@@ -1,0 +1,17 @@
+current directory: D:/apache-tomcat/webapps/ROOT/_GitHub/bomnalgomm.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+D:/Ruby/bin/ruby.exe -I D:/Ruby/lib/ruby/2.6.0 -r ./siteconf20210305-27064-q4gltx.rb extconf.rb
+creating Makefile
+
+current directory: D:/apache-tomcat/webapps/ROOT/_GitHub/bomnalgomm.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: D:/apache-tomcat/webapps/ROOT/_GitHub/bomnalgomm.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+generating ruby_http_parser-x64-mingw32.def
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: D:/apache-tomcat/webapps/ROOT/_GitHub/bomnalgomm.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20210305-27064-1tnaokm
